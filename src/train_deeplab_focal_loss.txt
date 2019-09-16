@@ -1,0 +1,264 @@
+Epoch 0 finished ! Training Loss (focal): 0.0248
+Epoch 1 finished ! Training Loss (focal): 0.0105
+Epoch 2 finished ! Training Loss (focal): 0.0097
+Epoch 3 finished ! Training Loss (focal): 0.0095
+Epoch 4 finished ! Training Loss (focal): 0.0096
+------- 1st valloss=0.5223
+Epoch 5 finished ! Training Loss (focal): 0.0092
+Epoch 6 finished ! Training Loss (focal): 0.0092
+Epoch 7 finished ! Training Loss (focal): 0.0087
+Epoch 8 finished ! Training Loss (focal): 0.0087
+Epoch 9 finished ! Training Loss (focal): 0.0086
+------- 1st valloss=0.4578
+Epoch 10 finished ! Training Loss (focal): 0.0084
+Epoch 11 finished ! Training Loss (focal): 0.0087
+Epoch 12 finished ! Training Loss (focal): 0.0083
+Epoch 13 finished ! Training Loss (focal): 0.0079
+Epoch 14 finished ! Training Loss (focal): 0.0075
+------- 1st valloss=0.4409
+Epoch 15 finished ! Training Loss (focal): 0.0074
+Epoch 16 finished ! Training Loss (focal): 0.0076
+Epoch 17 finished ! Training Loss (focal): 0.0081
+Epoch 18 finished ! Training Loss (focal): 0.0073
+Epoch 19 finished ! Training Loss (focal): 0.0072
+------- 1st valloss=0.4770
+Epoch 20 finished ! Training Loss (focal): 0.0068
+Epoch 21 finished ! Training Loss (focal): 0.0067
+Epoch 22 finished ! Training Loss (focal): 0.0063
+Epoch 23 finished ! Training Loss (focal): 0.0062
+Epoch 24 finished ! Training Loss (focal): 0.0064
+------- 1st valloss=0.4638
+Epoch 25 finished ! Training Loss (focal): 0.0062
+Epoch 26 finished ! Training Loss (focal): 0.0058
+Epoch 27 finished ! Training Loss (focal): 0.0064
+Epoch 28 finished ! Training Loss (focal): 0.0058
+Epoch 29 finished ! Training Loss (focal): 0.0053
+------- 1st valloss=0.4019
+Epoch 30 finished ! Training Loss (focal): 0.0052
+Epoch 31 finished ! Training Loss (focal): 0.0051
+Epoch 32 finished ! Training Loss (focal): 0.0054
+Epoch 33 finished ! Training Loss (focal): 0.0050
+Epoch 34 finished ! Training Loss (focal): 0.0049
+------- 1st valloss=0.3069
+Epoch 35 finished ! Training Loss (focal): 0.0046
+Epoch 36 finished ! Training Loss (focal): 0.0054
+Epoch 37 finished ! Training Loss (focal): 0.0049
+Epoch 38 finished ! Training Loss (focal): 0.0045
+Epoch 39 finished ! Training Loss (focal): 0.0047
+------- 1st valloss=0.3760
+Epoch 40 finished ! Training Loss (focal): 0.0051
+Epoch 41 finished ! Training Loss (focal): 0.0057
+Epoch 42 finished ! Training Loss (focal): 0.0058
+Epoch 43 finished ! Training Loss (focal): 0.0052
+Epoch 44 finished ! Training Loss (focal): 0.0048
+------- 1st valloss=0.3714
+Epoch 45 finished ! Training Loss (focal): 0.0048
+Epoch 46 finished ! Training Loss (focal): 0.0047
+Epoch 47 finished ! Training Loss (focal): 0.0041
+Epoch 48 finished ! Training Loss (focal): 0.0043
+Epoch 49 finished ! Training Loss (focal): 0.0045
+------- 1st valloss=0.3003
+Epoch 50 finished ! Training Loss (focal): 0.0041
+Epoch 51 finished ! Training Loss (focal): 0.0041
+Epoch 52 finished ! Training Loss (focal): 0.0037
+Epoch 53 finished ! Training Loss (focal): 0.0035
+Epoch 54 finished ! Training Loss (focal): 0.0038
+------- 1st valloss=0.3357
+Epoch 55 finished ! Training Loss (focal): 0.0034
+Epoch 56 finished ! Training Loss (focal): 0.0032
+Epoch 57 finished ! Training Loss (focal): 0.0036
+Epoch 58 finished ! Training Loss (focal): 0.0040
+Epoch 59 finished ! Training Loss (focal): 0.0047
+------- 1st valloss=0.3985
+Epoch 60 finished ! Training Loss (focal): 0.0041
+Epoch 61 finished ! Training Loss (focal): 0.0042
+Epoch 62 finished ! Training Loss (focal): 0.0036
+Epoch 63 finished ! Training Loss (focal): 0.0038
+Epoch 64 finished ! Training Loss (focal): 0.0044
+------- 1st valloss=0.5995
+Epoch 65 finished ! Training Loss (focal): 0.0039
+Epoch 66 finished ! Training Loss (focal): 0.0040
+Epoch 67 finished ! Training Loss (focal): 0.0038
+Epoch 68 finished ! Training Loss (focal): 0.0037
+Epoch 69 finished ! Training Loss (focal): 0.0035
+------- 1st valloss=0.3566
+Epoch 70 finished ! Training Loss (focal): 0.0040
+Epoch 71 finished ! Training Loss (focal): 0.0035
+Epoch 72 finished ! Training Loss (focal): 0.0035
+Epoch 73 finished ! Training Loss (focal): 0.0032
+Epoch 74 finished ! Training Loss (focal): 0.0034
+------- 1st valloss=0.3055
+Epoch 75 finished ! Training Loss (focal): 0.0032
+Epoch 76 finished ! Training Loss (focal): 0.0031
+Epoch 77 finished ! Training Loss (focal): 0.0029
+Epoch 78 finished ! Training Loss (focal): 0.0028
+Epoch 79 finished ! Training Loss (focal): 0.0030
+------- 1st valloss=0.6762
+Epoch 80 finished ! Training Loss (focal): 0.0033
+Epoch 81 finished ! Training Loss (focal): 0.0026
+Epoch 82 finished ! Training Loss (focal): 0.0025
+Epoch 83 finished ! Training Loss (focal): 0.0025
+Epoch 84 finished ! Training Loss (focal): 0.0024
+------- 1st valloss=0.2061
+Epoch 85 finished ! Training Loss (focal): 0.0024
+Epoch 86 finished ! Training Loss (focal): 0.0023
+Epoch 87 finished ! Training Loss (focal): 0.0023
+Epoch 88 finished ! Training Loss (focal): 0.0023
+Epoch 89 finished ! Training Loss (focal): 0.0023
+------- 1st valloss=0.1801
+Epoch 90 finished ! Training Loss (focal): 0.0022
+Epoch 91 finished ! Training Loss (focal): 0.0022
+Epoch 92 finished ! Training Loss (focal): 0.0022
+Epoch 93 finished ! Training Loss (focal): 0.0021
+Epoch 94 finished ! Training Loss (focal): 0.0022
+------- 1st valloss=0.1775
+Epoch 95 finished ! Training Loss (focal): 0.0022
+Epoch 96 finished ! Training Loss (focal): 0.0021
+Epoch 97 finished ! Training Loss (focal): 0.0021
+Epoch 98 finished ! Training Loss (focal): 0.0021
+Epoch 99 finished ! Training Loss (focal): 0.0021
+------- 1st valloss=0.1819
+Epoch 100 finished ! Training Loss (focal): 0.0021
+Epoch 101 finished ! Training Loss (focal): 0.0021
+Epoch 102 finished ! Training Loss (focal): 0.0021
+Epoch 103 finished ! Training Loss (focal): 0.0021
+Epoch 104 finished ! Training Loss (focal): 0.0020
+------- 1st valloss=0.1903
+Epoch 105 finished ! Training Loss (focal): 0.0020
+Epoch 106 finished ! Training Loss (focal): 0.0020
+Epoch 107 finished ! Training Loss (focal): 0.0020
+Epoch 108 finished ! Training Loss (focal): 0.0019
+Epoch 109 finished ! Training Loss (focal): 0.0020
+------- 1st valloss=0.1815
+Epoch 110 finished ! Training Loss (focal): 0.0020
+Epoch 111 finished ! Training Loss (focal): 0.0019
+Epoch 112 finished ! Training Loss (focal): 0.0019
+Epoch 113 finished ! Training Loss (focal): 0.0019
+Epoch 114 finished ! Training Loss (focal): 0.0019
+------- 1st valloss=0.1588
+Epoch 115 finished ! Training Loss (focal): 0.0019
+Epoch 116 finished ! Training Loss (focal): 0.0019
+Epoch 117 finished ! Training Loss (focal): 0.0018
+Epoch 118 finished ! Training Loss (focal): 0.0019
+Epoch 119 finished ! Training Loss (focal): 0.0019
+------- 1st valloss=0.1597
+Epoch 120 finished ! Training Loss (focal): 0.0019
+Epoch 121 finished ! Training Loss (focal): 0.0018
+Epoch 122 finished ! Training Loss (focal): 0.0019
+Epoch 123 finished ! Training Loss (focal): 0.0018
+Epoch 124 finished ! Training Loss (focal): 0.0018
+------- 1st valloss=0.1600
+Epoch 125 finished ! Training Loss (focal): 0.0019
+Epoch 126 finished ! Training Loss (focal): 0.0018
+Epoch 127 finished ! Training Loss (focal): 0.0018
+Epoch 128 finished ! Training Loss (focal): 0.0018
+Epoch 129 finished ! Training Loss (focal): 0.0018
+------- 1st valloss=0.1428
+Epoch 130 finished ! Training Loss (focal): 0.0017
+Epoch 131 finished ! Training Loss (focal): 0.0017
+Epoch 132 finished ! Training Loss (focal): 0.0019
+Epoch 133 finished ! Training Loss (focal): 0.0018
+Epoch 134 finished ! Training Loss (focal): 0.0019
+------- 1st valloss=0.2093
+Epoch 135 finished ! Training Loss (focal): 0.0017
+Epoch 136 finished ! Training Loss (focal): 0.0017
+Epoch 137 finished ! Training Loss (focal): 0.0017
+Epoch 138 finished ! Training Loss (focal): 0.0017
+Epoch 139 finished ! Training Loss (focal): 0.0017
+------- 1st valloss=0.1409
+Epoch 140 finished ! Training Loss (focal): 0.0018
+Epoch 141 finished ! Training Loss (focal): 0.0017
+Epoch 142 finished ! Training Loss (focal): 0.0017
+Epoch 143 finished ! Training Loss (focal): 0.0017
+Epoch 144 finished ! Training Loss (focal): 0.0017
+------- 1st valloss=0.1609
+Epoch 145 finished ! Training Loss (focal): 0.0017
+Epoch 146 finished ! Training Loss (focal): 0.0016
+Epoch 147 finished ! Training Loss (focal): 0.0016
+Epoch 148 finished ! Training Loss (focal): 0.0017
+Epoch 149 finished ! Training Loss (focal): 0.0016
+------- 1st valloss=0.1344
+Epoch 150 finished ! Training Loss (focal): 0.0016
+Epoch 151 finished ! Training Loss (focal): 0.0016
+Epoch 152 finished ! Training Loss (focal): 0.0016
+Epoch 153 finished ! Training Loss (focal): 0.0016
+Epoch 154 finished ! Training Loss (focal): 0.0016
+------- 1st valloss=0.1414
+Epoch 155 finished ! Training Loss (focal): 0.0016
+Epoch 156 finished ! Training Loss (focal): 0.0016
+Epoch 157 finished ! Training Loss (focal): 0.0016
+Epoch 158 finished ! Training Loss (focal): 0.0016
+Epoch 159 finished ! Training Loss (focal): 0.0016
+------- 1st valloss=0.1295
+Epoch 160 finished ! Training Loss (focal): 0.0016
+Epoch 161 finished ! Training Loss (focal): 0.0016
+Epoch 162 finished ! Training Loss (focal): 0.0016
+Epoch 163 finished ! Training Loss (focal): 0.0016
+Epoch 164 finished ! Training Loss (focal): 0.0015
+------- 1st valloss=0.1523
+Epoch 165 finished ! Training Loss (focal): 0.0015
+Epoch 166 finished ! Training Loss (focal): 0.0015
+Epoch 167 finished ! Training Loss (focal): 0.0015
+Epoch 168 finished ! Training Loss (focal): 0.0016
+Epoch 169 finished ! Training Loss (focal): 0.0015
+------- 1st valloss=0.1582
+Epoch 170 finished ! Training Loss (focal): 0.0015
+Epoch 171 finished ! Training Loss (focal): 0.0016
+Epoch 172 finished ! Training Loss (focal): 0.0015
+Epoch 173 finished ! Training Loss (focal): 0.0015
+Epoch 174 finished ! Training Loss (focal): 0.0015
+------- 1st valloss=0.1376
+Epoch 175 finished ! Training Loss (focal): 0.0015
+Epoch 176 finished ! Training Loss (focal): 0.0015
+Epoch 177 finished ! Training Loss (focal): 0.0015
+Epoch 178 finished ! Training Loss (focal): 0.0015
+Epoch 179 finished ! Training Loss (focal): 0.0015
+------- 1st valloss=0.1533
+Epoch 180 finished ! Training Loss (focal): 0.0015
+Epoch 181 finished ! Training Loss (focal): 0.0015
+Epoch 182 finished ! Training Loss (focal): 0.0015
+Epoch 183 finished ! Training Loss (focal): 0.0014
+Epoch 184 finished ! Training Loss (focal): 0.0014
+------- 1st valloss=0.1291
+Epoch 185 finished ! Training Loss (focal): 0.0015
+Epoch 186 finished ! Training Loss (focal): 0.0014
+Epoch 187 finished ! Training Loss (focal): 0.0014
+Epoch 188 finished ! Training Loss (focal): 0.0014
+Epoch 189 finished ! Training Loss (focal): 0.0014
+------- 1st valloss=0.1294
+Epoch 190 finished ! Training Loss (focal): 0.0014
+Epoch 191 finished ! Training Loss (focal): 0.0014
+Epoch 192 finished ! Training Loss (focal): 0.0014
+Epoch 193 finished ! Training Loss (focal): 0.0014
+Epoch 194 finished ! Training Loss (focal): 0.0014
+------- 1st valloss=0.6037
+Epoch 195 finished ! Training Loss (focal): 0.0015
+Epoch 196 finished ! Training Loss (focal): 0.0015
+Epoch 197 finished ! Training Loss (focal): 0.0014
+Epoch 198 finished ! Training Loss (focal): 0.0014
+Epoch 199 finished ! Training Loss (focal): 0.0014
+------- 1st valloss=0.1217
+Epoch 200 finished ! Training Loss (focal): 0.0014
+Epoch 201 finished ! Training Loss (focal): 0.0014
+Epoch 202 finished ! Training Loss (focal): 0.0014
+Epoch 203 finished ! Training Loss (focal): 0.0014
+Epoch 204 finished ! Training Loss (focal): 0.0014
+------- 1st valloss=0.1544
+Epoch 205 finished ! Training Loss (focal): 0.0014
+Epoch 206 finished ! Training Loss (focal): 0.0013
+Epoch 207 finished ! Training Loss (focal): 0.0014
+Epoch 208 finished ! Training Loss (focal): 0.0014
+Epoch 209 finished ! Training Loss (focal): 0.0013
+------- 1st valloss=0.1274
+Epoch 210 finished ! Training Loss (focal): 0.0014
+Epoch 211 finished ! Training Loss (focal): 0.0013
+Epoch 212 finished ! Training Loss (focal): 0.0014
+Epoch 213 finished ! Training Loss (focal): 0.0014
+Epoch 214 finished ! Training Loss (focal): 0.0013
+------- 1st valloss=0.1363
+Epoch 215 finished ! Training Loss (focal): 0.0013
+Epoch 216 finished ! Training Loss (focal): 0.0013
+Epoch 217 finished ! Training Loss (focal): 0.0013
+Epoch 218 finished ! Training Loss (focal): 0.0013
+Epoch 219 finished ! Training Loss (focal): 0.0013
+------- 1st valloss=0.1352

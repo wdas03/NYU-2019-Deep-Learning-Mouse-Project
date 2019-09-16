@@ -1,0 +1,116 @@
+Epoch 1 finished ! Training Loss: 0.5205
+Epoch 2 finished ! Training Loss: 0.4898
+Epoch 3 finished ! Training Loss: 0.4841
+Epoch 4 finished ! Training Loss: 0.4798
+Epoch 5 finished ! Training Loss: 0.4736
+------- 1st valloss=0.5134
+Epoch 6 finished ! Training Loss: 0.4670
+Epoch 7 finished ! Training Loss: 0.4666
+Epoch 8 finished ! Training Loss: 0.4467
+Epoch 9 finished ! Training Loss: 0.4312
+Epoch 10 finished ! Training Loss: 0.4329
+------- 1st valloss=0.5511
+Epoch 11 finished ! Training Loss: 0.4333
+Epoch 12 finished ! Training Loss: 0.4113
+Epoch 13 finished ! Training Loss: 0.4182
+Epoch 14 finished ! Training Loss: 0.3993
+Epoch 15 finished ! Training Loss: 0.3934
+------- 1st valloss=0.4220
+Epoch 16 finished ! Training Loss: 0.3997
+Epoch 17 finished ! Training Loss: 0.4137
+Epoch 18 finished ! Training Loss: 0.3741
+Epoch 19 finished ! Training Loss: 0.3819
+Epoch 20 finished ! Training Loss: 0.4061
+------- 1st valloss=0.3101
+Epoch 21 finished ! Training Loss: 0.3849
+Epoch 22 finished ! Training Loss: 0.3787
+Epoch 23 finished ! Training Loss: 0.3855
+Epoch 24 finished ! Training Loss: 0.3760
+Epoch 25 finished ! Training Loss: 0.3670
+------- 1st valloss=0.2449
+Epoch 26 finished ! Training Loss: 0.3784
+Epoch 27 finished ! Training Loss: 0.3813
+Epoch 28 finished ! Training Loss: 0.3704
+Epoch 29 finished ! Training Loss: 0.3556
+Epoch 30 finished ! Training Loss: 0.3583
+------- 1st valloss=0.4064
+Epoch 31 finished ! Training Loss: 0.3810
+Epoch 32 finished ! Training Loss: 0.3650
+Epoch 33 finished ! Training Loss: 0.3809
+Epoch 34 finished ! Training Loss: 0.3688
+Epoch 35 finished ! Training Loss: 0.3601
+------- 1st valloss=0.4721
+Epoch 36 finished ! Training Loss: 0.3619
+Epoch 37 finished ! Training Loss: 0.3762
+Epoch 38 finished ! Training Loss: 0.3839
+Epoch 39 finished ! Training Loss: 0.3730
+Epoch 40 finished ! Training Loss: 0.3766
+------- 1st valloss=0.4467
+Epoch 41 finished ! Training Loss: 0.3795
+Epoch 42 finished ! Training Loss: 0.3622
+Epoch 43 finished ! Training Loss: 0.3567
+Epoch 44 finished ! Training Loss: 0.3480
+Epoch 45 finished ! Training Loss: 0.3420
+------- 1st valloss=0.1941
+Epoch 46 finished ! Training Loss: 0.3611
+Epoch 47 finished ! Training Loss: 0.3439
+Epoch 48 finished ! Training Loss: 0.3452
+Epoch 49 finished ! Training Loss: 0.3667
+Epoch 50 finished ! Training Loss: 0.3531
+------- 1st valloss=0.4745
+Epoch 51 finished ! Training Loss: 0.3471
+Epoch 52 finished ! Training Loss: 0.3507
+Epoch 53 finished ! Training Loss: 0.3445
+Epoch 54 finished ! Training Loss: 0.3527
+Epoch 55 finished ! Training Loss: 0.3276
+------- 1st valloss=0.2350
+Epoch 56 finished ! Training Loss: 0.3403
+Epoch 57 finished ! Training Loss: 0.3454
+Epoch 58 finished ! Training Loss: 0.3629
+Epoch 59 finished ! Training Loss: 0.3547
+Epoch 60 finished ! Training Loss: 0.3431
+------- 1st valloss=0.6136
+Epoch 61 finished ! Training Loss: 0.3258
+Epoch 62 finished ! Training Loss: 0.3509
+Epoch 63 finished ! Training Loss: 0.3418
+Epoch 64 finished ! Training Loss: 0.3126
+Epoch 65 finished ! Training Loss: 0.3572
+------- 1st valloss=0.4824
+Epoch 66 finished ! Training Loss: 0.3458
+Epoch 67 finished ! Training Loss: 0.3382
+Epoch 68 finished ! Training Loss: 0.3192
+Epoch 69 finished ! Training Loss: 0.3420
+Epoch 70 finished ! Training Loss: 0.3516
+------- 1st valloss=0.1952
+Epoch 71 finished ! Training Loss: 0.3685
+Epoch 72 finished ! Training Loss: 0.3572
+Epoch 73 finished ! Training Loss: 0.3289
+Epoch 74 finished ! Training Loss: 0.3613
+Epoch 75 finished ! Training Loss: 0.3492
+------- 1st valloss=0.2448
+Epoch 76 finished ! Training Loss: 0.3351
+Epoch 77 finished ! Training Loss: 0.3459
+Epoch 78 finished ! Training Loss: 0.3666
+Epoch 79 finished ! Training Loss: 0.3487
+Epoch 80 finished ! Training Loss: 0.3307
+------- 1st valloss=0.1749
+Epoch 81 finished ! Training Loss: 0.3382
+Epoch 82 finished ! Training Loss: 0.3432
+Epoch 83 finished ! Training Loss: 0.3271
+Epoch 84 finished ! Training Loss: 0.3518
+Epoch 85 finished ! Training Loss: 0.3292
+------- 1st valloss=0.3178
+Epoch 86 finished ! Training Loss: 0.3354
+Epoch 87 finished ! Training Loss: 0.3452
+Epoch 88 finished ! Training Loss: 0.3276
+Epoch 89 finished ! Training Loss: 0.3392
+Epoch 90 finished ! Training Loss: 0.3078
+------- 1st valloss=0.2826
+Epoch 91 finished ! Training Loss: 0.3075
+Epoch 92 finished ! Training Loss: 0.3012
+Epoch 93 finished ! Training Loss: 0.3406
+Epoch 94 finished ! Training Loss: 0.3163
+Epoch 95 finished ! Training Loss: 0.3012
+------- 1st valloss=0.4817
+Epoch 96 finished ! Training Loss: 0.3159
+Epoch 97 finished ! Training Loss: 0.3398

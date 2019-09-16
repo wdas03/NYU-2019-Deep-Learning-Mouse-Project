@@ -1,0 +1,2 @@
+Epoch 1 finished ! Training Loss: 0.9954
+------- 1st valloss=0.9849

@@ -1,0 +1,31 @@
+Epoch 1 finished ! Training Loss: 0.9792
+Epoch 1 finished ! Training Loss: 0.9787
+Epoch 2 finished ! Training Loss: 0.9797
+Epoch 3 finished ! Training Loss: 0.9793
+Epoch 1 finished ! Training Loss: 0.9799
+Epoch 4 finished ! Training Loss: 0.9794
+Epoch 5 finished ! Training Loss: 0.9789
+------- 1st valloss=0.9769
+Epoch 6 finished ! Training Loss: 0.9797
+Epoch 7 finished ! Training Loss: 0.9795
+Epoch 1 finished ! Training Loss: 0.9789
+Epoch 2 finished ! Training Loss: 0.9791
+Epoch 3 finished ! Training Loss: 0.9785
+Epoch 4 finished ! Training Loss: 0.9779
+Epoch 5 finished ! Training Loss: 0.9786
+------- 1st valloss=0.9769
+Epoch 6 finished ! Training Loss: 0.9794
+Epoch 7 finished ! Training Loss: 0.9785
+Epoch 8 finished ! Training Loss: 0.9784
+Epoch 9 finished ! Training Loss: 0.9791
+Epoch 10 finished ! Training Loss: 0.9782
+------- 1st valloss=0.9769
+Epoch 11 finished ! Training Loss: 0.9793
+Epoch 12 finished ! Training Loss: 0.9801
+Epoch 13 finished ! Training Loss: 0.9786
+Epoch 14 finished ! Training Loss: 0.9786
+Epoch 15 finished ! Training Loss: 0.9793
+------- 1st valloss=0.9769
+Epoch 16 finished ! Training Loss: 0.9790
+Epoch 17 finished ! Training Loss: 0.9790
+Epoch 18 finished ! Training Loss: 0.9782
